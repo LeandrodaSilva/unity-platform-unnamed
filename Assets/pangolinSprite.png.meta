@@ -1,0 +1,1932 @@
+fileFormatVersion: 2
+guid: 404bd753a0f274c2e8bb1fb0e8d90d65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 119974156808262833
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_0
+  - first:
+      213: -7825003394654477844
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_1
+  - first:
+      213: -6154887013845853747
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_2
+  - first:
+      213: -8522258277968131852
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_3
+  - first:
+      213: -2776364378246671431
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_4
+  - first:
+      213: -4765102768640936853
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_5
+  - first:
+      213: -5911396535426868916
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_6
+  - first:
+      213: 8733128502694224580
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_7
+  - first:
+      213: -7074159092338911263
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_8
+  - first:
+      213: 148268575652169879
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_9
+  - first:
+      213: -3903673885232650925
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_10
+  - first:
+      213: -7965008061684336735
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_11
+  - first:
+      213: 7581978008977036831
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_12
+  - first:
+      213: -5583125841849060807
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_13
+  - first:
+      213: -2767881424241992972
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_14
+  - first:
+      213: -2527947834481002910
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_15
+  - first:
+      213: 1038960680691830854
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_16
+  - first:
+      213: 2022342985618263835
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_17
+  - first:
+      213: 4638600200136241364
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_18
+  - first:
+      213: -8888282729063917284
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_19
+  - first:
+      213: -2183924375738215451
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_20
+  - first:
+      213: 6537826481004765641
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_21
+  - first:
+      213: 2229216444826936881
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_22
+  - first:
+      213: -2044587344524684651
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_23
+  - first:
+      213: 1503528324222623201
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_24
+  - first:
+      213: 466733130979940775
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_25
+  - first:
+      213: 5048300233022054173
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_26
+  - first:
+      213: 5042540559425479601
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_27
+  - first:
+      213: 2272952289318218465
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_28
+  - first:
+      213: 920247720661108470
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_29
+  - first:
+      213: 2071409009006035404
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_30
+  - first:
+      213: 9196539883411306086
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_31
+  - first:
+      213: 8204984717902879224
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_32
+  - first:
+      213: 2721898826446518515
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_33
+  - first:
+      213: 8968359258949688614
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_34
+  - first:
+      213: 1391531216474250690
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_35
+  - first:
+      213: -4153388204696608025
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_36
+  - first:
+      213: 8128901966403780856
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_37
+  - first:
+      213: 6900735201413428796
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_38
+  - first:
+      213: 5530909499198427847
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_39
+  - first:
+      213: 5917359515903669039
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_40
+  - first:
+      213: 3189518665384646618
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_41
+  - first:
+      213: -7083926719462559825
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_42
+  - first:
+      213: -1434547926389051974
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_43
+  - first:
+      213: 6706065378732511394
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_44
+  - first:
+      213: 2876735801226659154
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_45
+  - first:
+      213: -5253052112431863298
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_46
+  - first:
+      213: 7028497163792974355
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_47
+  - first:
+      213: -2479615326864589217
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_48
+  - first:
+      213: -6293383706337874918
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_49
+  - first:
+      213: -3146860805527841486
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_50
+  - first:
+      213: -8442745329213804428
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_51
+  - first:
+      213: -5156846234562206811
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_52
+  - first:
+      213: -4783421007899617463
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_53
+  - first:
+      213: -7992758461586922271
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_54
+  - first:
+      213: 6667388080661815418
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_55
+  - first:
+      213: 5243167859538052932
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_56
+  - first:
+      213: 6805591646176489085
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_57
+  - first:
+      213: 4293898645014490354
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_58
+  - first:
+      213: -3849785354193785563
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_59
+  - first:
+      213: 1866831566106189153
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_60
+  - first:
+      213: 7126198107811921728
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_61
+  - first:
+      213: 464454499041318854
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_62
+  - first:
+      213: 7455007927076573904
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_63
+  - first:
+      213: -2928807269696671380
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_64
+  - first:
+      213: 7605795835821827591
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_65
+  - first:
+      213: -3789628545396297516
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_66
+  - first:
+      213: 4052912297874277098
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_67
+  - first:
+      213: -2357957491607554047
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_68
+  - first:
+      213: -3325009046323736413
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_69
+  - first:
+      213: 1110426613681519694
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_70
+  - first:
+      213: -630166396903685898
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_71
+  - first:
+      213: 2478526467290369330
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_72
+  - first:
+      213: 7870877789024671661
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_73
+  - first:
+      213: -5144119104857469721
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_74
+  - first:
+      213: 1264675580493607075
+    second: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 713
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b498c62cdb3aa100800000000000000
+      internalID: 119974156808262833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 713
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e4670fd0086390800000000000000
+      internalID: -7825003394654477844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 705
+        width: 78
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc99d03fed2759aa0800000000000000
+      internalID: -6154887013845853747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 713
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8c391cf3bdab980800000000000000
+      internalID: -8522258277968131852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 713
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b31f8bce4f5879d0800000000000000
+      internalID: -2776364378246671431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 713
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b643dec4744feddb0800000000000000
+      internalID: -4765102768640936853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 718
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c491863cb2086fda0800000000000000
+      internalID: -5911396535426868916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2ade46a1e423970800000000000000
+      internalID: 8733128502694224580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71a8839c983dd90800000000000000
+      internalID: -7074159092338911263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798c917eb71ce0200800000000000000
+      internalID: 148268575652169879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3552dbfa84d53d9c0800000000000000
+      internalID: -3903673885232650925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7be2a4e5b967190800000000000000
+      internalID: -7965008061684336735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_12
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1656eff3d8983960800000000000000
+      internalID: 7581978008977036831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 718
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9327844a0a0c482b0800000000000000
+      internalID: -5583125841849060807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa57af62828699d0800000000000000
+      internalID: -2767881424241992972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266ba0396dceaecd0800000000000000
+      internalID: -2527947834481002910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_16
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 718
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6401c340c312b6e00800000000000000
+      internalID: 1038960680691830854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f87c70b3ec01c10800000000000000
+      internalID: 2022342985618263835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_18
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d03d204e4e9f5040800000000000000
+      internalID: 4638600200136241364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19d7e633f976a480800000000000000
+      internalID: -8888282729063917284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 718
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e39ec7e95421b1e0800000000000000
+      internalID: -2183924375738215451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 718
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c16e6bab860bba50800000000000000
+      internalID: 6537826481004765641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 648
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1366e51bb84cfee10800000000000000
+      internalID: 2229216444826936881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 648
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592d85194aa20a3e0800000000000000
+      internalID: -2044587344524684651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 648
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed170b7b0b9dd410800000000000000
+      internalID: 1503528324222623201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_25
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 648
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a917fc4f4b2a7600800000000000000
+      internalID: 466733130979940775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 600
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f1dcc905a2f0640800000000000000
+      internalID: 5048300233022054173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 600
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b32e0a1ce3baf540800000000000000
+      internalID: 5042540559425479601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 600
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea293480162b8f10800000000000000
+      internalID: 2272952289318218465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 600
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f64e5f1d6065cc00800000000000000
+      internalID: 920247720661108470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 600
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc14956d48f1fbc10800000000000000
+      internalID: 2071409009006035404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 600
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66671717c4ca0af70800000000000000
+      internalID: 9196539883411306086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 600
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f91c1a0126fdd170800000000000000
+      internalID: 8204984717902879224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 600
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8b5e8bf8026c520800000000000000
+      internalID: 2721898826446518515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 552
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d18c7ca33067c70800000000000000
+      internalID: 8968359258949688614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_35
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 552
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd90dbc446bf4310800000000000000
+      internalID: 1391531216474250690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_36
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 552
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2e2c4fe633c56c0800000000000000
+      internalID: -4153388204696608025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_37
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 552
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0c8790549afc070800000000000000
+      internalID: 8128901966403780856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 504
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36f741aa1654cf50800000000000000
+      internalID: 6900735201413428796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 505
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c25e80b2ecb1cc40800000000000000
+      internalID: 5530909499198427847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_40
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 504
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2337b1d02fae1250800000000000000
+      internalID: 5917359515903669039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_41
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 505
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7dabec352734c20800000000000000
+      internalID: 3189518665384646618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 504
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf298f4e26d0bd90800000000000000
+      internalID: -7083926719462559825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 505
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdae42f246771ce0800000000000000
+      internalID: -1434547926389051974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_44
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 504
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a095e38eeab01d50800000000000000
+      internalID: 6706065378732511394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_45
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 505
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25583c838f73ce720800000000000000
+      internalID: 2876735801226659154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 456
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef922e38fe86917b0800000000000000
+      internalID: -5253052112431863298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 456
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31288b09eec3a8160800000000000000
+      internalID: 7028497163792974355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_48
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e3f9e6ff2a69dd0800000000000000
+      internalID: -2479615326864589217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 408
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cef74ecd869a8a0800000000000000
+      internalID: -6293383706337874918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 408
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235d9e825ca1454d0800000000000000
+      internalID: -3146860805527841486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4707f1bcad755da80800000000000000
+      internalID: -8442745329213804428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 408
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3eb9bfba33f68b0800000000000000
+      internalID: -5156846234562206811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 408
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947900ddfefdd9db0800000000000000
+      internalID: -4783421007899617463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 408
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e42d91d684041190800000000000000
+      internalID: -7992758461586922271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 408
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70658f4222578c50800000000000000
+      internalID: 6667388080661815418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_56
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 408
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447c285836973c840800000000000000
+      internalID: 5243167859538052932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 408
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e27bc6b81527e50800000000000000
+      internalID: 6805591646176489085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_58
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 361
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcae9d411ef69b30800000000000000
+      internalID: 4293898645014490354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 362
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d27cd0e90d29ac0800000000000000
+      internalID: -3849785354193785563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_60
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 362
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dde312b6158e910800000000000000
+      internalID: 1866831566106189153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_61
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 361
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fb03f3c6755e260800000000000000
+      internalID: 7126198107811921728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 360
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c790b5f7e2127600800000000000000
+      internalID: 464454499041318854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_63
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 312
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2de1b1632857760800000000000000
+      internalID: 7455007927076573904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_64
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 312
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61f5224e49ca57d0800000000000000
+      internalID: -2928807269696671380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 264
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7062e44f3073d8960800000000000000
+      internalID: 7605795835821827591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 216
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d039f09ae8886bc0800000000000000
+      internalID: -3789628545396297516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 216
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2cb9cf246de3830800000000000000
+      internalID: 4052912297874277098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 216
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108b245872ad64fd0800000000000000
+      internalID: -2357957491607554047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_69
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 216
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0d9e693e13bd1d0800000000000000
+      internalID: -3325009046323736413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_70
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 168
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c70a13f17096f00800000000000000
+      internalID: 1110426613681519694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_71
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 168
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f00b2330033147f0800000000000000
+      internalID: -630166396903685898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 120
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d0f31b0be756220800000000000000
+      internalID: 2478526467290369330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7d35db5a9fa3d60800000000000000
+      internalID: 7870877789024671661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_74
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 24
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8ba8cdea6c98b0800000000000000
+      internalID: -5144119104857469721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_pangolin_in_sega_genesis_style_by_tarkan809_dc2n44s_75
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 24
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0be6b6db70d8110800000000000000
+      internalID: 1264675580493607075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
